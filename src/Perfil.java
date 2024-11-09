@@ -6,6 +6,7 @@ com o método main, que ao executar deverá imprimir um cumprimento personalizad
 
 public class Perfil {
     public static void main(String[] args) {
-        System.out.println("Ola, Daniel");
+        String nome = "Daniel";
+        System.out.println("Ola, " + nome + "!");
     }
 }
