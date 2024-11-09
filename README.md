@@ -3,7 +3,7 @@ Aqui está um exemplo de arquivo `README.md` para o seu projeto **firstjavaappli
 ```markdown
 # First Java Application
 
-Este é o projeto **firstjavaapplication**, um exemplo simples de uma aplicação Java para iniciantes.
+Este é o projeto *firstjavaapplication*, um exemplo simples de uma aplicação Java para iniciantes.
 
 ## Descrição
 
